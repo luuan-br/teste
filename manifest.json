@@ -1,7 +1,7 @@
 {
   "vendor": "uniftecmarketplace",
   "name": "uniftecmarketplace",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
